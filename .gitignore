@@ -6,9 +6,9 @@ word2vec.model/
 *.model
 # Labelisation/
 Labelisation.zip
-comments.csv
-labeled_data.csv
+# comments.csv
+# labeled_data.csv
 Labeliseur.ipynb
-unlabeled_data.csv
+# unlabeled_data.csv
 =======
 >>>>>>> ada781a03e637a31cda363887cfbceaefc253923
