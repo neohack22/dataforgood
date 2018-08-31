@@ -38,5 +38,9 @@ for subdir, dirs, files in os.walk(path):
         filePath = subdir + os.path.sep + file
         shakes = open(filePath, 'r', encoding="latin")
         text.append(shakes.readlines())
+<<<<<<< HEAD
         print(len(text))
+=======
+        printt(len(text))
+>>>>>>> ada781a03e637a31cda363887cfbceaefc253923
         shakes.close()
