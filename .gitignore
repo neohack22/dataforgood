@@ -1,0 +1,11 @@
+*.npy
+pretrain-word2vec/
+word2vec.model
+word2vec.model/
+*.model
+Labelisation/
+Labelisation.zip
+comments.csv
+labeled_data.csv
+Labeliseur.ipynb
+unlabeled_data.csv
